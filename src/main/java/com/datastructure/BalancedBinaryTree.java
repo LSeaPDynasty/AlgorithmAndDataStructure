@@ -18,7 +18,7 @@ public class BalancedBinaryTree extends BinaryTree{
      * 旋转树
      */
     public Node rotate(Node node){
-        +(node.left.height - node.right.height > 1){
+        if(node.left.height - node.right.height > 1){
             //左子树比右子树高
             //左子树左子树比右子树高
             if(node.left.left.height - node.left.right.height > 0){
