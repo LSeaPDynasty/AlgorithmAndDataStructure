@@ -1,7 +1,5 @@
-package com.datastructure;
+package com.datastructure.Tree;
 
-
-import static com.datastructure.Tree.print;
 
 /*
  * 二叉树
